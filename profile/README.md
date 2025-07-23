@@ -6,13 +6,13 @@
 ## 👥 Team Members
 <table>
     <tr>
-      <td align="center" width="230">
+      <td align="center" width="240">
         <a href="https://github.com/lyeonj">
           <img width="120" height="120" alt="Image" src="https://github.com/user-attachments/assets/20bb526c-e67b-4704-9182-7f5ed84c194e" />
           <br />
         </a>
       </td>
-      <td align="center" width="230">
+      <td align="center" width="240">
         <a href="https://github.com/hayeyoung">
           <img width="120" height="120" alt="Image" src="https://github.com/user-attachments/assets/6af905f8-0d22-422f-bae4-7619b414fe81" />
           <br />
@@ -70,11 +70,11 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center" width="250">
+      <td align="center" width="240">
         <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=black"/>
         <img src="https://img.shields.io/badge/Styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
       </td>
-      <td align="center" width="250">
+      <td align="center" width="240">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
       </td>
@@ -94,10 +94,10 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center" width="190">
+      <td align="center" width="240">
         <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"/>
       </td>
-      <td align="center" width="190">
+      <td align="center" width="240">
         <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=amazon&logoColor=white"/>
         <img src="https://img.shields.io/badge/DuckDNS-FFAA00?style=flat-square&logo=duckduckgo&logoColor=black"/>
       </td>
@@ -111,11 +111,11 @@
 **👤 Intro Page**
 <table>
     <tr>
-        <td width="420">
-            <img width="400" height="279" alt="Image" src="https://github.com/user-attachments/assets/439ffb40-4acc-4cd4-b2e7-2b40aa4e8365" />
+        <td width="380">
+            <img width="350" height="244" alt="Image" src="https://github.com/user-attachments/assets/439ffb40-4acc-4cd4-b2e7-2b40aa4e8365" />
         </td>
-        <td width="420">
-            <img width="400" height="279" alt="Image" src="https://github.com/user-attachments/assets/a4f5e405-2b3c-45fe-bdd4-724f24f354e3" />
+        <td width="380">
+            <img width="350" height="244" alt="Image" src="https://github.com/user-attachments/assets/a4f5e405-2b3c-45fe-bdd4-724f24f354e3" />
         </td>
     </tr>
 </table>
@@ -125,11 +125,11 @@
 **📝 Character Type Test**
 <table>
     <tr>
-        <td width="420">
-            <img width="400" height="279" alt="Image" src="https://github.com/user-attachments/assets/9745bb8e-1433-4880-8fc8-087122dec958" />
+        <td width="380">
+            <img width="350" height="244" alt="Image" src="https://github.com/user-attachments/assets/9745bb8e-1433-4880-8fc8-087122dec958" />
         </td>
-        <td width="420">
-            <img width="400" height="279" alt="Image" src="https://github.com/user-attachments/assets/24ec9004-06ac-4026-b7ba-dd2d244eebc3" />
+        <td width="380">
+            <img width="350" height="244" alt="Image" src="https://github.com/user-attachments/assets/24ec9004-06ac-4026-b7ba-dd2d244eebc3" />
         </td>
     </tr>
 </table>
@@ -139,8 +139,8 @@
 **📊 Character Type Statistics**
 <table>
     <tr>
-        <td width="420">
-          <img width="400" height="279" alt="Image" src="https://github.com/user-attachments/assets/c5eac920-293c-44c5-ac19-ea555722f1f6" />
+        <td width="380">
+          <img width="350" height="244" alt="Image" src="https://github.com/user-attachments/assets/c5eac920-293c-44c5-ac19-ea555722f1f6" />
         </td>
     </tr>
 </table>
