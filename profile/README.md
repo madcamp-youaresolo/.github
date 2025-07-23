@@ -110,7 +110,10 @@
 <table>
     <tr>
         <td>
-            image
+            <img width="400" height="279" alt="Image" src="https://github.com/user-attachments/assets/439ffb40-4acc-4cd4-b2e7-2b40aa4e8365" />
+        </td>
+        <td>
+            <img width="400" height="279" alt="Image" src="https://github.com/user-attachments/assets/a4f5e405-2b3c-45fe-bdd4-724f24f354e3" />
         </td>
     </tr>
 </table>
@@ -121,18 +124,10 @@
 <table>
     <tr>
         <td>
-            Female
+            <img width="400" height="279" alt="Image" src="https://github.com/user-attachments/assets/9745bb8e-1433-4880-8fc8-087122dec958" />
         </td>
         <td>
-            Male
-        </td>
-    </tr>
-    <tr>
-        <td>
-            image
-        </td>
-        <td>
-            image
+            <img width="400" height="279" alt="Image" src="https://github.com/user-attachments/assets/24ec9004-06ac-4026-b7ba-dd2d244eebc3" />
         </td>
     </tr>
 </table>
@@ -143,7 +138,7 @@
 <table>
     <tr>
         <td>
-          image
+          <img width="400" height="279" alt="Image" src="https://github.com/user-attachments/assets/c5eac920-293c-44c5-ac19-ea555722f1f6" />
         </td>
     </tr>
 </table>
