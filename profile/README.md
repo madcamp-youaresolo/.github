@@ -43,14 +43,16 @@
 <img width="200" height="100" alt="Image" src="https://github.com/user-attachments/assets/f2625e4f-f4d9-4053-a2d3-0e6d760b50a1" />
 
 <h3>You are Solo</h3>
-ㄴ 나는솔로 캐릭터 유형 테스트
+ㄴ '나는 SOLO' 캐릭터 유형 테스트
 
-<br clear="left" />
+<br/>
 <br/>
 
-- 📝 **유형 테스트** : ?
-- 📊 **유형별 통계 시각화** : ?
-- 📤 **결과 이미지 저장 및 링크 공유** : ?
+- 📝 **유형 테스트** : 성별에 따라 다른 질문으로 진행되는 연애 성향 테스트
+  
+- 📊 **유형별 통계 시각화** : 전체 결과 데이터를 기반으로 유형별 분포 확인
+  
+- 📤 **결과 이미지 저장 및 링크 공유** : 테스트 결과를 이미지로 저장하거나 링크로 공유
 
 <br/>
 
@@ -154,6 +156,8 @@
 - 🧑‍🎨 **Illustration Assets**
   - 패널 일러스트 : [@uhzzum (Instagram)](https://www.instagram.com/uhzzum/)
   - 유형별 캐릭터 일러스트 : [@심리대화 (YouTube)](https://www.youtube.com/@%EC%8B%AC%EB%A6%AC%EB%8C%80%ED%99%94)
+- 🎵 **Background Music**
+  - [Miloe - Solo](https://youtu.be/MyD8A3tFyVg?feature=shared)
 
 <br />
 
